@@ -27,6 +27,23 @@ li {
   margin: 10px;
 }
 
+.navbar ul li a:hover {
+  color: #ccc;
+  font-style: italic;
+}
+
+.Lawrence-Logo {
+  background-color: #fff;
+  border-radius: 30%;
+  margin-right: 10px;
+  color: black;
+}
+
+.card a:hover {
+  color: #ccc;
+  font-style: italic;
+}
+
 .introduction {
   background-color: #333;
   color: #fff;
@@ -87,3 +104,5 @@ footer {
   justify-content: center;
   align-items: center;
 }
+
+
